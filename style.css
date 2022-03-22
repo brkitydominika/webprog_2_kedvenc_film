@@ -74,3 +74,13 @@ h1{
 #asi { 
     grid-area: aside; 
     }
+
+#perron{
+    height: 200px;
+    width: 300px;
+}
+
+span{
+    padding-left: 20px;
+    float: right;
+}
