@@ -13,7 +13,7 @@ body{
 
 #logo{
     height: 60px;
-    width: 120px;
+    width: 150px;
 }
 
 #kedvenc{
@@ -31,7 +31,7 @@ a{
     color: black;
     text-decoration: none;
     text-align: center;
-    padding-left: 130px;
+    padding-left: 120px;
 }
 
 .link{
@@ -49,8 +49,8 @@ img{
     float: right;
 }
 
-#katniss{
-    height: 150px;
+#conjuring{
+    height: 350px;
     width: 250px;
 }
 h1{
