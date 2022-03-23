@@ -12,8 +12,8 @@ body{
 }
 
 #logo{
-    height: 60px;
-    width: 150px;
+    height: 110px;
+    width: 250px;
 }
 
 #kedvenc{
@@ -83,4 +83,9 @@ h1{
 span{
     padding-left: 20px;
     float: right;
+}
+
+#kep{
+    height: 300px;
+    width: 250px;
 }
